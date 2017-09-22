@@ -1,4 +1,5 @@
 name=[]
+name.append('Emma')
 name.append(‘Abduallah’)
 name.append('Emma')
 for i in name:
